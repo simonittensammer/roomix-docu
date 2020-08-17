@@ -20,7 +20,7 @@ Simon Ittensammer
 
 == Arbeit & Erkenntnisse
 
-Es wurden einige Frontend-Technologien zum Entwicklen von Websites und Apps angesehen. Eine davon wurde ausgewählt und damit ein Demoprojekt gestarted.
+Es wurden einige Frontend-Technologien zum Entwicklen von Websites und Apps angesehen. Eine davon wurde ausgewählt und damit ein Demoprojekt gestartet.
 
 == Links
 * https://blog.angular.io/apps-that-work-natively-on-the-web-and-mobile-9b26852495e7
