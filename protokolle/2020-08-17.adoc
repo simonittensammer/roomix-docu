@@ -1,0 +1,26 @@
+= Protokoll 2020-08-17
+Simon Ittensammer
+1.0, 2020-08-17
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|Simon Zweimüller
+|===
+
+== Themen
+
+* Frontend-Technologien
+
+== Arbeit & Erkenntnisse
+
+Es wurden einige Frontend-Technologien zum Entwicklen von Websites und Apps angesehen. Eine davon wurde ausgewählt und damit ein Demoprojekt gestarted.
+
+== Links
+* https://blog.angular.io/apps-that-work-natively-on-the-web-and-mobile-9b26852495e7
