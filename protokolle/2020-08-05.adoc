@@ -1,0 +1,29 @@
+= Protokoll 2020-08-05
+Simon Ittensammer
+1.0, 2020-08-17
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Lorenz Gruber
+
+|Simon Ittensammer
+
+|Simon Zweimüller
+|===
+
+== Themen
+
+* Frontend-Struktur / App Übersicht
+
+== Arbeit & Erkenntnisse
+
+Es wurde ein Prototyp der App angefertigt, um einen besseren Überblick über den Aufbau und die Funktionen der App zu haben.
+
+== Links
+
+* https://xd.adobe.com/view/05a0a1c9-c563-46b8-5809-28b3b95813e7-7391/?fullscreen
