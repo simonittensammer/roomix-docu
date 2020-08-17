@@ -1,0 +1,12 @@
+= roomix-docu
+
+== Beschreibung
+Dieses Repository dient der Dokumentation des Projekts https://github.com/simonittensammer/roomix[roomix].
+
+== Projekt-Repository
+https://github.com/simonittensammer/roomix
+
+== Contributors
+* https://github.com/lorenzgruber[Lorenz Gruber]
+* https://github.com/simonittensammer[Simon Ittensammer]
+* https://github.com/simonZweimueller[Simon Zweimüller]
