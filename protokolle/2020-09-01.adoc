@@ -1,0 +1,28 @@
+= Protokoll 2020-09-01
+Simon Ittensammer
+1.0, 2020-09-01
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Lorenz Gruber
+
+|Simon Ittensammer
+
+|Simon Zweimüller
+|===
+
+== Themen
+
+* Klassendiagramm
+
+== Arbeit & Erkenntnisse
+
+Es wurde ein Klassendiagramm für den Quarkus-Server erstellt.
+
+== Links
+* https://github.com/simonittensammer/roomix-docu/blob/master/diagramme/klassendiagramm.adoc
