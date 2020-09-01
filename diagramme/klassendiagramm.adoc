@@ -1,0 +1,97 @@
+= Klassendiagramm
+Simon Ittensammer
+1.0, 2020-09-01
+:icons: font
+
+[plantuml,class,png]
+----
+@startuml
+
+User "0" --> "*" User
+User "1" -- "*" FriendRequest
+User "1" -- "*" RoomInvite
+
+User "1" -- "*" Member
+Room "1" -- "*" Member
+
+Room "1" <-- "*" RoomInvite
+Room "1" --> "1" Playlist
+Room "1" --> "*" Message
+
+Message "*" --> "1" Member
+
+Playlist "*" --> "*" Song
+
+class User {
+    id : Long
+    username : String
+    displayname : String
+    profilePicUrl : String
+    friendList : List<User>
+    memberList : List<Member>
+    friendRequestList : List<FriendRequest>
+    roomInviteList : List<RoomInvite>
+    activeMember : Member
+    password : string
+}
+
+class Room {
+    id : Long
+    name : String
+    picUrl : String
+    memberList : List<Member>
+    messageList : List<Message>
+    playlist : Playlist
+    activeMemberAmount : int
+    isPrivate : boolean
+}
+
+class Member {
+    id : Long
+    user : User
+    role : String
+}
+
+class Message {
+    id : Long
+    member : Member
+    content : String
+    creationTime : dateTime
+}
+
+class Playlist {
+    id : Long
+    songList : List<Song>
+    songQueue : List<Song>
+}
+
+class Song {
+    id : Long
+    title : String
+    artist : String
+    url : String
+    picUrl : String
+    length : int
+}
+
+class FriendRequest {
+    id : Long
+    sender : User
+    receiver : User
+    creationTime : dateTime
+}
+
+class RoomInvite {
+    id : Long
+    sender : User
+    receiver : User
+    room : Room
+    creationTime : dateTime
+}
+
+@enduml
+----
+
+== Notizen
+- songList in Playlist: ordered List of all songs in Playlist
+- songQueue in Playlist: short List of the next few Songs
