@@ -32,6 +32,7 @@ Probleme mit Nativescript:
 ** updaten/installieren mit ```npm i -g @angular/cli```
 
 Probleme mit Ionic: 
+
 * beim öffnen der Android-App (```ionic cap open android```) wird der Pfad von Android Studio nicht gefunden
 ** in der Datei ```capacitor.config.json``` die Zeile ```"windowsAndroidStudioPath": "C:\\Users\\Simon Itti\\AppData\\Local\\JetBrains\\Toolbox\\apps\\AndroidStudio\\ch-0\\193.6626763\\bin\\studio64.exe",``` einfügen
 
