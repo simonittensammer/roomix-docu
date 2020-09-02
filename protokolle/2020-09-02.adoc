@@ -1,0 +1,41 @@
+= Protokoll 2020-09-02
+Simon Ittensammer
+1.0, 2020-09-02
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|Simon Zweimüller
+|===
+
+== Themen
+
+* Demo-App
+
+== Arbeit & Erkenntnisse
+
+Es wurde die Demo-Applikation mithilfe von Angular und Nativescript weiterentwickelt, um auf Erkenntnisse und mögliche Hindernisse zu stoßen.
+Nach einigen Problemen wurde ebenfalls eine Demo-App mithilfe von Angular und Ionic entwickelt.
+
+Wir haben uns vorerst für Ionic entschieden, da es durch die bessere Dokumentation und einfachere Anwendung von Anfang an besser funktioniert hat. 
+
+Probleme mit Nativescript:
+
+* Angular CLI version (mindestens 9.1.0)
+** version nachschauen: ng --version
+** updaten/installieren mit ```npm i -g @angular/cli```
+
+Probleme mit Ionic: 
+* beim öffnen der Android-App (```ionic cap open android```) wird der Pfad von Android Studio nicht gefunden
+** in der Datei ```capacitor.config.json``` die Zeile ```"windowsAndroidStudioPath": "C:\\Users\\Simon Itti\\AppData\\Local\\JetBrains\\Toolbox\\apps\\AndroidStudio\\ch-0\\193.6626763\\bin\\studio64.exe",``` einfügen
+
+== Links
+* https://blog.angular.io/apps-that-work-natively-on-the-web-and-mobile-9b26852495e7
+* https://github.com/NativeScript/nativescript-schematics
+* https://ionicframework.com/docs/angular/your-first-app
