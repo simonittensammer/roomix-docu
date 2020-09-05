@@ -1,0 +1,24 @@
+= Protokoll 2020-09-05
+Simon Ittensammer
+1.0, 2020-09-05
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Zweimüller
+|===
+
+== Themen
+
+* Erstellen der Angular-App
+
+== Arbeit & Erkenntnisse
+
+Es wurde die Angular-Applikation erstellt und ein Auth.Guard hinzugefügt um das Login zu vereinfachen.
+
+== Links
+* https://jasonwatmore.com/post/2020/04/28/angular-9-user-registration-and-login-example-tutorial
