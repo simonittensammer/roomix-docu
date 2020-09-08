@@ -1,0 +1,21 @@
+= Protokoll 2020-09-07
+Lorenz Gruber
+1.0, 2020-09-07
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Lorenz Gruber
+|===
+
+== Themen
+
+* Erstellen des Quarkus Backend
+
+== Arbeit & Erkenntnisse
+
+Es wurde ein Quarkus Projekt mit allen Entitätsklassen und einem Endpoint für User erstellt.
