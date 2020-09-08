@@ -1,0 +1,21 @@
+= Protokoll 2020-09-08
+Lorenz Gruber
+1.0, 2020-09-08
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Lorenz Gruber
+|===
+
+== Themen
+
+* Erstellen des Quarkus Backend
+
+== Arbeit & Erkenntnisse
+
+Es wurden ein Bug im User-Endpoint ausgebessert und GET und POST Funktionalität implementiert.
