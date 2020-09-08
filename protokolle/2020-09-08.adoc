@@ -10,12 +10,19 @@ Lorenz Gruber
 |Teilnehmer
 
 |Lorenz Gruber
+
+|Simon Zweimüller
 |===
 
 == Themen
 
 * Erstellen des Quarkus Backend
 
+* Angular Login und Registration
+
 == Arbeit & Erkenntnisse
 
 Es wurden ein Bug im User-Endpoint ausgebessert und GET und POST Funktionalität implementiert.
+
+Es wurde die Grundlagen der  Login und Registration Funktionalität implementiert.
+Für die volle Funktionaliät fehlt noch die Passwort Überprüfung im Backend.
