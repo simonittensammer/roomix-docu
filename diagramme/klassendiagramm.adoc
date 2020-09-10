@@ -49,6 +49,7 @@ class Room {
 class Member {
     id : Long
     user : User
+    room : Room
     role : String
 }
 
