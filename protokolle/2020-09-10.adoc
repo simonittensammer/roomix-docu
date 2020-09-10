@@ -10,6 +10,9 @@ Lorenz Gruber
 |Teilnehmer
 
 |Lorenz Gruber
+
+|Simon Zweimüller
+
 |===
 
 == Themen
@@ -21,6 +24,12 @@ Lorenz Gruber
 Es wurden Room-Endpoin, Room-Repository und Member-Repository implementiert
 
 Es wurde zum Thema Json-B Serialization recherchiert und damit zusammenhängende Probleme gelöst
+
+Es wurde die Roomlist-Seite erstellt, welche auf alle Rooms eines Users verlinkt.
+
+Es wurde die Roomcreation-Seite erstellt.
+
+Es wurde die Room-Seite erstellt und eingebunden.
 
 == Links
 * https://stackoverflow.com/questions/21574236/how-to-fix-org-hibernate-lazyinitializationexception-could-not-initialize-prox
