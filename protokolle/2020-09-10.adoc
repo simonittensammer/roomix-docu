@@ -19,3 +19,9 @@ Lorenz Gruber
 == Arbeit & Erkenntnisse
 
 Es wurden Room-Endpoin, Room-Repository und Member-Repository implementiert
+
+Es wurde zum Thema Json-B Serialization recherchiert und damit zusammenhängende Probleme gelöst
+
+== Links
+* https://stackoverflow.com/questions/21574236/how-to-fix-org-hibernate-lazyinitializationexception-could-not-initialize-prox
+* https://rieckpil.de/whatis-json-binding-json-b/
