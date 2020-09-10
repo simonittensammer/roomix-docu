@@ -1,0 +1,21 @@
+= Protokoll 2020-09-10
+Lorenz Gruber
+1.0, 2020-09-10
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Lorenz Gruber
+|===
+
+== Themen
+
+* Erstellen des Quarkus Backend
+
+== Arbeit & Erkenntnisse
+
+Es wurden Room-Endpoin, Room-Repository und Member-Repository implementiert
