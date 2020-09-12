@@ -1,0 +1,32 @@
+= Protokoll 2020-09-10
+Lorenz Gruber
+1.0, 2020-09-10
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Lorenz Gruber
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Besprechung Room Schnittstellen
+
+* Erstellung der Youtube Suchfunktion innerhalb der App
+
+== Arbeit & Erkenntnisse
+
+Es wurden Playlist und Songendpoints festgelegt.
+
+Es wurde eine Suchfunktion für Youtube Videos erstellt.
+
+== Links
+* https://blog.logrocket.com/build-a-youtube-video-search-app-with-angular-and-rxjs/
+* https://console.developers.google.com/apis/dashboard?pli=1&authuser=2&project=roomix&folder=&organizationId=&supportedpurview=project
