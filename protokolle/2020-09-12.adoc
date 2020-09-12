@@ -21,12 +21,17 @@ Lorenz Gruber
 
 * Erstellung der Youtube Suchfunktion innerhalb der App
 
+* Erstellen der Endpoints
+
 == Arbeit & Erkenntnisse
 
 Es wurden Playlist und Songendpoints festgelegt.
 
 Es wurde eine Suchfunktion für Youtube Videos erstellt.
 
+Es wurden der Song-Endpoint erstellt und die Funktionalität für Playlist, Friend-List und Friend-Request implementiert.
+
 == Links
 * https://blog.logrocket.com/build-a-youtube-video-search-app-with-angular-and-rxjs/
 * https://console.developers.google.com/apis/dashboard?pli=1&authuser=2&project=roomix&folder=&organizationId=&supportedpurview=project
+* https://stackoverflow.com/questions/31884500/jpa-self-referencing-entities
