@@ -19,6 +19,8 @@ Lorenz Gruber
 
 * Erstellen des Quarkus Backend
 
+* Erstellen der Room Infrastruktur
+
 == Arbeit & Erkenntnisse
 
 Es wurden Room-Endpoin, Room-Repository und Member-Repository implementiert
