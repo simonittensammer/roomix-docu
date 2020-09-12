@@ -1,0 +1,27 @@
+= Protokoll 2020-09-11
+Simon Ittensammer
+1.0, 2020-09-11
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Musik einbinden
+
+== Arbeit & Erkenntnisse
+
+Es wurde eine Möglichkeit gesucht nach Liedern zu suchen und diese abzuspielen.
+
+== Links
+* https://blog.logrocket.com/build-a-youtube-video-search-app-with-angular-and-rxjs/
