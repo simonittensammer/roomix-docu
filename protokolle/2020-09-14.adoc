@@ -11,11 +11,15 @@ Lorenz Gruber
 
 |Lorenz Gruber
 
+|Simon Zweimüller
+
 |===
 
 == Themen
 
 * Erstellen der Endpoints
+
+* Show Playlist and add new songs from Youtube search
 
 == Arbeit & Erkenntnisse
 
@@ -24,6 +28,8 @@ Es wurde die Funktionalität für RoomInvite implementiert.
 Es wurden Bugs im RoomEndpoint gefixed.
 
 Es wurde die deleteSongFromRoomPlaylist() Methode implementiert
+
+Es wurde die Funktionalität Youtube Videos zu Playlists hinzuzufügen und zu entfernen erstellt.
 
 == Links
 
