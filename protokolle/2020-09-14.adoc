@@ -1,0 +1,27 @@
+= Protokoll 2020-09-14
+Lorenz Gruber
+1.0, 2020-09-14
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Lorenz Gruber
+
+|===
+
+== Themen
+
+* Erstellen der Endpoints
+
+== Arbeit & Erkenntnisse
+
+Es wurde die Funktionalität für RoomInvite implementiert.
+
+Es wurden Bugs im RoomEndpoint gefixed.
+
+== Links
+
