@@ -23,5 +23,7 @@ Es wurde die Funktionalität für RoomInvite implementiert.
 
 Es wurden Bugs im RoomEndpoint gefixed.
 
+Es wurde die deleteSongFromRoomPlaylist() Methode implementiert
+
 == Links
 
