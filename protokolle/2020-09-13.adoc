@@ -1,0 +1,28 @@
+= Protokoll 2020-09-13
+Lorenz Gruber
+1.0, 2020-09-13
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Lorenz Gruber
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Erstellen der Endpoints
+
+== Arbeit & Erkenntnisse
+
+Es wurde der RoomEndpoint erweitert, sodass entweder bereits existierende Songs oder komplet neue Songs mit der Gleichen Methode zur Playlist hinzugefügt werden können.
+
+Es wurde der Room- und SongEndpoint erweitert, sodass beim Persistieren eines Songs per URL überprüft wird, ob dieser bereits existiert.
+
+== Links
