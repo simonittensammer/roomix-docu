@@ -1,0 +1,29 @@
+= Protokoll 2020-09-16
+Simon Zweimüller
+1.0, 2020-09-16
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Erstellen der Navigationsbar
+
+== Arbeit & Erkenntnisse
+
+Es wurde eine Navigationsbar erstellt.
+
+Es fehlt noch die Navigation auf den aktuellen Room.
+
+Das verstecken der Navigation funktioniert noch nicht vollständig.
+
+== Links
+
