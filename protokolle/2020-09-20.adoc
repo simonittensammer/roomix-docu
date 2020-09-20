@@ -1,0 +1,25 @@
+= Protokoll 2020-09-20
+Simon Ittensammer
+1.0, 2020-09-20
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|===
+
+== Themen
+
+* Style der Website
+
+== Arbeit & Erkenntnisse
+
+Es wurde die bisherige Website mithilfe von scss gestyled/gestaltet.
+
+== Links
+
