@@ -1,0 +1,27 @@
+= Protokoll 2020-09-23
+Simon Zweimüller
+1.0, 2020-09-23
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Verbesserungen beim Login
+
+== Arbeit & Erkenntnisse
+
+Der Benutzer wird automatisch wieder eingeloggt wenn er sich in seiner letzten Sitzung nicht ausgeloggt hat.
+
+Der Benutzer wird mit der Registrierung automatisch eingeloggt.
+
+== Links
+
