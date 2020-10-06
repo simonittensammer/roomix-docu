@@ -1,0 +1,34 @@
+= Protokoll 2020-09-24
+Simon Ittensammer
+1.0, 2020-09-24
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Lorenz Gruber
+
+|Simon Ittensammer
+
+|Simon Zweimüller
+
+|Prof. Aistleitner
+
+|===
+
+== Themen
+
+* Projektorganisation
+* Aktueller Stand
+* Nächste Schritte
+
+== Vereinbarungen
+
+Bis 08.10.2020:
+
+* Inhaltsverzeichnis der schriftlichen Arbeit in Latex
+* Pflichtenheft
+* Organisation in Scrum
