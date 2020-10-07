@@ -1,0 +1,61 @@
+= Pflichtenheft
+simon ittensammer
+1.0, 2020-10-07
+ifndef::imagesdir[:imagesdir: images]
+:sourcedir: ../src/main/java
+:icons: font
+:sectnums:    // Nummerierung der Überschriften / section numbering
+:toc: left
+
+//Need this blank line after ifdef, don't know why...
+ifdef::backend-html5[]
+
+== Pflichtenheft - roomix
+
+=== Projektteam
+
+* https://github.com/lorenzgruber[Lorenz Gruber]
+* https://github.com/simonittensammer[Simon Ittensammer]
+* https://github.com/simonZweimueller[Simon Zweimüller]
+
+=== Ausgangssituation
+
+Heutzutage sind wir im Alltag dauerhaft von Musik umgeben.
+Egal ob beim Sport, im Haushalt, am Arbeitsplatz oder unterwegs, überall läuft Musik.
+
+=== Istzustand
+
+Es gibt derzeit schon viele verschiedene Möglichkeiten digital Musik zu hören.
+Die meisten Menschen benutzen hierfür verschiedenste Streamingdienste wie Spotify, Itunes oder Soundcloud.
+Im eigenen Haushalt läuft meist den ganzen Tag über normales Radio.
+
+=== Problemstellung
+
+Das Musikhören ist bei einem sehr großen Teil der Anwendungen jedoch nur alleine und nicht online zusammen möglich.
+Die bereits existierenden Applikationen sind auf Dauer oft umständlich oder unnötig kompliziert.
+Onlineradio erfüllt zwar den Zweck des gemeinsamen Musikhörens, trifft aber oft den Musikgeschmack der Gruppe nicht.
+Außerdem wird der Musikgenuss wird beim Onlineradio oft durch Werbung, Nachrichten oder ähnliche Einspieler unterbrochen.
+
+=== Aufgabenstellung
+
+==== Funktionale Anforderungen
+
+Es ist ein Softwaresystem zu entwickeln, welches es Benutzern ermöglicht gemeinsam die gleiche Musik zu hören, unabhängig davon wo sich diese befinden. +
+Nutzer können Räume ("rooms") mit einer Liste an ausgewählten Liedern erstellen.
+Räume können privat oder öffentlich gemacht werden. +
+Man kann Freunde hinzufügen und diese zu Räumen einladen.
+Innerhalb eines Raums ist es möglich mit den anderen Mitgliedern dieses Raums über einen Chat zu schreiben.
+
+==== Nichtfunktionale Anforderungen
+
+Das System soll im Web, als Desktopapplikation und als Android- bzw. IOS-Anwendung funktionieren.
+
+=== Ziele
+
+Es soll eine einfache Möglichkeit geschaffen werden, gemeinsam und online Musik zu hören. +
+Die Applikation soll als Alternative für herkömmliche Streamingdienste und Radio dienen.
+
+=== Rahmenbedingungen
+
+Das System ist bis 31.03.2021 fertigzustellen.
+
