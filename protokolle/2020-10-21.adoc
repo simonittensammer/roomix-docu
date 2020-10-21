@@ -1,0 +1,34 @@
+= Protokoll 2020-10-21
+Simon Ittensammer
+1.0, 2020-10-21
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|===
+
+== Themen
+
+* Text-Logo erstellen
+* Entwürfe für Quadratisches-Logo erstellen
+
+== Arbeit & Erkenntnisse
+
+Es wurden
+
+* https://github.com/simonittensammer/roomix-docu/project-files/logo-dark.jpg[dunkles Text-Logo] für hellen Hintergrund
+* https://github.com/simonittensammer/roomix-docu/project-files/logo-light.jpg[helles Text-Logo] für dunklen Hintergrund
+* https://github.com/simonittensammer/roomix-docu/project-files/logo-bw.jpg[schwarz/weißes Text-Logo] für färbigen Hintergrund
+* entwürfe für quadratische Logos
+
+erstellt. Hierfür habe ich Adobe-Illustrator verwendet.
+
+== Links
+
+* https://image.flaticon.com/icons/png/512/13/13510.png[Inspiration]
