@@ -22,9 +22,9 @@ Simon Ittensammer
 
 Es wurden
 
-* https://github.com/simonittensammer/roomix-docu/project-files/logo-dark.jpg[dunkles Text-Logo] für hellen Hintergrund
-* https://github.com/simonittensammer/roomix-docu/project-files/logo-light.jpg[helles Text-Logo] für dunklen Hintergrund
-* https://github.com/simonittensammer/roomix-docu/project-files/logo-bw.jpg[schwarz/weißes Text-Logo] für färbigen Hintergrund
+* https://github.com/simonittensammer/roomix-docu/tree/master/project-files/logo-dark.svg[dunkles Text-Logo] für hellen Hintergrund
+* https://github.com/simonittensammer/roomix-docu/tree/master/project-files/logo-light.svg[helles Text-Logo] für dunklen Hintergrund
+* https://github.com/simonittensammer/roomix-docu/tree/master/project-files/logo-bw.svg[schwarz/weißes Text-Logo] für färbigen Hintergrund
 * entwürfe für quadratische Logos
 
 erstellt. Hierfür habe ich Adobe-Illustrator verwendet.
