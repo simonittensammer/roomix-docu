@@ -1,0 +1,30 @@
+= Protokoll 2020-10-29
+Simon Ittensammer
+1.0, 2020-10-29
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|===
+
+== Themen
+
+* Finalisierung des Logos
+* Finalisierung des Icons
+* Verbesserung des Styles der Website
+
+== Arbeit & Erkenntnisse
+
+Es wurde das Logo finalisiert und Icons erstellt.
+
+In der Anwendung wurde das Logo eingebunden, viele kleine Verbesserungen am Style durchgeführt und zum Beispiel auch Icons zu Navigation hinzugefügt.
+
+== Links
+
+* https://maketintsandshades.com/#9400FF
