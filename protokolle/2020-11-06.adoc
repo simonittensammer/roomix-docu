@@ -1,0 +1,27 @@
+= Protokoll 2020-11-06
+Simon Ittensammer
+1.0, 2020-11-06
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|===
+
+== Themen
+
+* Erstellung Control-Bar Component
+* Volume-Range-Input
+
+== Arbeit & Erkenntnisse
+
+Es wurde ein neuer Angular-Component "control-bar" erstellt.
+In diesem Wurde ein Input, Type="range", eingefügt.
+Derzeit wird der Wert des Sliders nur in einem HTML Element angezeigt und hat noch keine weitere Funktionalität.
+
+== Links
