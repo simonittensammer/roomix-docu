@@ -1,0 +1,27 @@
+= Protokoll 2020-10-28
+Simon Zweimüller
+1.0, 2020-10-28
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Auslesen der aktuellen Songs mit Websockets
+* Anzeigen und Abspielen der Songs in den Rooms
+
+== Arbeit & Erkenntnisse
+
+Das aktuelle Lied für einen Room wird mit Hilfe von Websockets geladen und mit einem Youtube iframe abgespielt.
+
+Es werden noch Verbesserungen für die Synchronität nötig sein.
+
+== Links

@@ -1,0 +1,27 @@
+= Protokoll 2020-10-31
+Simon Zweimüller
+1.0, 2020-10-31
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Friendrequests
+* Roominvites
+
+== Arbeit & Erkenntnisse
+
+User können jetzt Friendrequests und Roominvites versenden und beantworten.
+
+Allerdings muss sich der User momentan immer neu einloggen damit seine Requests und Invites geupdated werden.
+
+== Links
