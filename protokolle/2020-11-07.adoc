@@ -1,0 +1,25 @@
+= Protokoll 2020-11-07
+Simon Ittensammer
+1.0, 2020-11-07
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|===
+
+== Themen
+
+* Erstellung von Skizzen aller Unterseiten
+
+== Arbeit & Erkenntnisse
+
+Es wurden Handschriftliche Skizzen aller Unterseiten der Website erstellt.
+
+== Links
+* https://github.com/simonittensammer/roomix-docu/blob/master/project-files/page-skizzen.jpeg[Skizzen]
