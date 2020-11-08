@@ -1,0 +1,25 @@
+= Protokoll 2020-11-08
+Simon Ittensammer
+1.0, 2020-11-08
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|===
+
+== Themen
+
+* Style für Roomlist verbessern
+
+== Arbeit & Erkenntnisse
+
+Es wurde ein responsives Layout für den roomlist-component implementiert.
+Hierfür wurde ein CSS-Grid-Layout verwendet.
+
+== Links
