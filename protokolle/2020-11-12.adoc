@@ -1,0 +1,25 @@
+= Protokoll 2020-11-12
+Simon Ittensammer
+1.0, 2020-11-12
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|===
+
+== Themen
+
+* Style für Listen
+* Andere Styleverbesserungen
+
+== Arbeit & Erkenntnisse
+
+Es wurde ein Style für jegliche Listen erstellt und andere Designänderungen vorgenommen.
+
+== Links
