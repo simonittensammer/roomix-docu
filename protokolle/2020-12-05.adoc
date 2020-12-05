@@ -1,0 +1,44 @@
+= Protokoll 2020-12-05
+Simon Ittensammer
+1.0, 2020-12-05
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|===
+
+== Themen
+
+* Login validation
+* Register validation
+* Erweitern des Control-Bar Component
+* Andere Styleverbesserungen
+
+== Arbeit & Erkenntnisse
+
+Beim Login und beim Register-Component wurde jeweils eine Input-Validation hinzugefügt.
+Auch wurden Labels für die einzelnen Inputs hinzugefügt.
+
+Bei der Control bar wurden Infos über den aktuellen Room und Song eingefügt.
+Dies wird über den RoomServce, welcher Room-Infos für andere Komponenten zur Verfügung stellt, möglch gemacht.
+Es gibt nun auch einen Lautstärke-Regler, jedoch derzeit ohne Funktion.
+
+Der Link zum aktuellen Raum wurde funktionsfähig gemacht.
+
+---
+
+*Bugs:*
+Derzeit existiert noch ein Bug, bei dem Song und Room-Infos nicht live geupdated werden.
+Die Seite muss man also derzeit noch händisch neu laden.
+
+Beim Bedienen des Lautstärke-Reglers wird der Iframe aus irgendeinem Grund noch neu geladen.
+
+Auch muss der Iframe generell noch in den Control-Component verschoben werden.
+
+== Links
