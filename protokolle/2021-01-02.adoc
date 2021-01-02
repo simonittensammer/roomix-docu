@@ -21,6 +21,8 @@ Simon Zweimüller
 * refactor userValue and roomValue to Observables
 * Improve data clearance on logout
 * Move play-song logic to the control-bar
+* Change Layout of Room
+* Change Layout of Your-Profile and Your-Friends
 
 == Arbeit & Erkenntnisse
 
@@ -34,5 +36,13 @@ Wenn sich ein User ausloggt werden nun sämtliche Daten erfolgreich aus dem loka
 Das abspielen der Lieder wird nun im control-bar-component und nicht mehr im room-component verwaltet.
 Dadurch wird die Musik immer abgespielt, egal wo man sich innerhalb der Applikation befindet.
 
+Der Room-Component ist auf 2 verschiedene Hälften aufgeteilt.
+Links befinden sich Infos über den Room wie die Mitgliederliste und die Playlist und rechts befindet sich ein Chat.
+
+Der Profile- und der Friend-Component wurden auf eine Seite zusammengefasst.
+Links befinden sich nun Infos zum Profil und rechts die Freundschaftsanfragen und die Freundesliste.
+
+Alle diser Listen können auf- und zugeklappt werden um Platz zu sparen.
+Auch können diese gescrollt werden um alle Infos anzeigen zu können.
 
 == Links
