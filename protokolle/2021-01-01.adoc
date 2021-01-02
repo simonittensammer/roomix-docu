@@ -1,0 +1,27 @@
+= Protokoll 2021-01-01
+Simon Zweimüller
+1.0, 2021-01-01
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Refactor Angular Services
+* Fixed Header not showing
+
+== Arbeit & Erkenntnisse
+
+Alle Angular Services wurden in den selben Ordner verschoben.
+
+Die Navigation wird nun nach dem einloggen richtig angezeigt. , dass man die Webseite.
+
+== Links
