@@ -1,0 +1,38 @@
+= Protokoll 2020-10-31
+Simon Zweimüller
+1.0, 2020-10-31
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Validation for new Room
+* refactor userValue and roomValue to Observables
+* Improve data clearance on logout
+* Move play-song logic to the control-bar
+
+== Arbeit & Erkenntnisse
+
+Verhindert das erstellen von Rooms ohne Namen. Nach dem erstellen wird man nun direkt auf die Roomlist zurückgeleitet.
+
+Der User und der aktuelle Room sind nun über Observables von überall im Angular abrufbar.
+Dies erleichtert die Frontend-Programmierung massiv, da man nun sich kaum noch mit der Übergabe von Parametern herumschlagen muss.
+
+Wenn sich ein User ausloggt werden nun sämtliche Daten erfolgreich aus dem lokalen Speicher gelöscht.
+
+Das abspielen der Lieder wird nun im control-bar-component und nicht mehr im room-component verwaltet.
+Dadurch wird die Musik immer abgespielt, egal wo man sich innerhalb der Applikation befindet.
+
+
+== Links
