@@ -1,6 +1,6 @@
-= Protokoll 2020-10-31
+= Protokoll 2020-01-02
 Simon Zweimüller
-1.0, 2020-10-31
+1.0, 2020-01-02
 :icons: font
 
 == Organisatorisches
