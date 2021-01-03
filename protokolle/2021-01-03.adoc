@@ -1,0 +1,32 @@
+= Protokoll 2020-01-03
+Simon Zweimüller
+1.0, 2020-01-03
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Change "add song" and "new room" to pop-ups
+* Show newly added songs immediately
+* Fix display bug in lists
+
+== Arbeit & Erkenntnisse
+
+Die Fenster für "add song" und "new room" werden nun als pop-ups und nicht mehr als eigene Seiten angezeigt.
+
+Die Playlist wird sofort geupdated wenn ein neues Lied hinzugefügt wird.
+
+Die Listen werden nicht mehr nebeneinander angezeigt wenn sie leer sind.
+
+== Links
