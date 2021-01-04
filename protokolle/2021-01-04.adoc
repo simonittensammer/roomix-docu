@@ -1,0 +1,43 @@
+= Protokoll 2020-01-04
+Simon Zweimüller
+1.0, 2020-01-04
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Lorenz Gruber
+
+|Simon Ittensammer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Improve Song deletion
+* Permanent dark theme
+* Fix name showing on navigation
+* Make "join-room" it's own tab and improve roomlist layout
+* Display Members of rooms correctly
+* Improve room invite functions
+
+== Arbeit & Erkenntnisse
+
+Gelöschte Lieder verschwinden nun ohne einen Reload.
+
+Es wird nur noch das Dark Theme genutzt.
+
+Der Username der bei der Navigation angezeigt wurde ist nun richtigerweise der Display Name.
+
+Die Join-Room Funktion wurde zu einer eigenen Seite und das Roomlist Layout wurde verbessert.
+
+Sämtliche Mitglieder eines Rooms werden nun richtig in einer Liste angezeigt.
+
+Man kann nun beim einladen neuer Mitglieder aus einer Liste seiner Freunde auswählen.
+
+== Links
