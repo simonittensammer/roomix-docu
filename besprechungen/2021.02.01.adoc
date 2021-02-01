@@ -1,0 +1,35 @@
+= Protokoll 2021-02-01
+Simon Ittensammer
+1.0, 2021-02-01
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Lorenz Gruber
+
+|Simon Ittensammer
+
+|Simon Zweimüller
+
+|Prof. Aistleitner
+
+|===
+
+== Themen
+
+* TODO
+* Termine
+
+== Vereinbarungen
+
+* Websocket oder SSE?
+* Playlist nach oben?
+* Songs deleten soll nur der Owner können
+* Schriftliche Arbeit min. 120 Seiten
+* Das fertige Projekt soll man mit docker-compose starten
+* Endabgabe bis 5.4 (digatal, schriftlich ist länger Zeit)
+* Nächste Besprechung am 23.02.2021 um 16:00 Uhr
