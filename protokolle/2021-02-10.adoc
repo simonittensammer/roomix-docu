@@ -1,0 +1,45 @@
+= Protokoll 2021-02-10
+Simon Ittensammer
+1.0, 2020-02-10
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* join- and leave-room functionality
+* fix some join- and leave-room bugs
+* make add-friend to popup
+* add profile-pic upload
+* add room-pic upload
+* display profile- and room-pics correctly in entire application
+* join public rooms
+
+== Arbeit & Erkenntnisse
+
+Räume können jetzt angesehen werden, ohne dass man gleich mithören muss.
+Für das mithören und nicht mehr mithören gibt es in jedem Raum nun einen Button.
+
+Buttons, welche nur funktionieren sollen, wenn gerade in einem Raum gehört wird, werden deaktiviert, falls dies nicht der Fall ist.
+
+Die Suche um Freunde hinzuzufügen ist nun ein Popup Fenster.
+
+Beim Account-erstellen gibt es jetzt die Möglichkeit, ein Profilbild hochzuladen.
+
+Beim Raum-erstellen gibt es jetzt die Möglichkeit, ein Bild hochzuladen.
+
+Diese Bilder werden in der ganzen Applikation jetzt richtig angezeigt.
+
+Im Browse-Rooms Tab werden nun alle public-Rooms angezeigt. Diese können dann angezeigt und zur eigenen Roomlist hinzugefügt werden.
+
+== Links
