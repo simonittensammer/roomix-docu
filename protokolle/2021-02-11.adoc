@@ -1,0 +1,34 @@
+= Protokoll 2021-02-11
+Simon Ittensammer
+1.0, 2020-02-11
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|===
+
+== Themen
+
+* Create default Profile Picture
+* Create default Room Picture
+* Profile Component
+* Fix bugs and improve CSS
+
+== Arbeit & Erkenntnisse
+
+Es wurden Standard-Bilder für Profile und Räume erstellt.
+
+Es werden nun Infos über den Benutzer im Profile-Component angezeigt.
+
+Es wurden einige Style-Verbesserungen für Buttons und Bilder vorgenommen.
+
+== Links
+
+* https://github.com/simonittensammer/roomix-docu/blob/master/project-files/img/space-profile.jpg[Standard-Profilbild]
+* https://github.com/simonittensammer/roomix-docu/blob/master/project-files/img/space-room.jpg[Standard-Raumbild]
