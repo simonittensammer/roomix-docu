@@ -11,6 +11,8 @@ Simon Ittensammer
 
 |Simon Ittensammer
 
+|Simon Zweimüller
+
 |===
 
 == Themen
@@ -20,6 +22,9 @@ Simon Ittensammer
 * Profile Component
 * Fix bugs and improve CSS
 
+* Split account.service into account.service and user.service
+* control friendrequests and roominvites with websockets
+
 == Arbeit & Erkenntnisse
 
 Es wurden Standard-Bilder für Profile und Räume erstellt.
@@ -27,6 +32,10 @@ Es wurden Standard-Bilder für Profile und Räume erstellt.
 Es werden nun Infos über den Benutzer im Profile-Component angezeigt.
 
 Es wurden einige Style-Verbesserungen für Buttons und Bilder vorgenommen.
+
+Der Account Service wurde aufgeteilt um die User Verwaltung zu erleichtern.
+
+Durch die Websockets muss sich ein User nicht mehr in der Applikation neu anmelden um Freundschaftsanfragen und Raumeinladungen zu erhalten.
 
 == Links
 
