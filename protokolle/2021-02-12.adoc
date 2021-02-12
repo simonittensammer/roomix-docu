@@ -1,0 +1,36 @@
+= Protokoll 2021-02-12
+Simon Zweimüller
+1.0, 2020-02-12
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Refactor frontend
+* Fix Bug with friendlist being removed from the frontend upon creating a new room
+* Implement join and leave room functionality
+* Add date formatting to chat messages
+* Fix memberlist of user not updating properly when accepting a room invite
+
+== Arbeit & Erkenntnisse
+
+Die Files im Frontend wurden neu angeordnet um die Applikation besser zu repräsentieren.
+
+Die Freundeliste eines Users verschwindet im Frontend nun nicht mehr wenn ein neuer Raum erstellt wird.
+
+User können Rooms nun über einen Button beitreten um den Room in ihrer Roomlist angezeigt zu bekommen.
+Sie können die Rooms auch wieder aus der Roomlist entfernen.
+Man kann auch in public rooms zuhören (connecten) ohne sie zur Roomlist hinzuzufügen.
+
+Der Timestamp bei den Chat Nachricht wird nun in einem besseren Date Format angezeigt.
+
+Die Memberlist eines Users wird nun richtig geupdated wenn er eine Raumeinladung annimmt.
