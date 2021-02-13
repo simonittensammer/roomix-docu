@@ -1,0 +1,25 @@
+= Protokoll 2021-02-13
+Simon Zweimüller
+1.0, 2020-02-13
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Add skip button
+* Change iframe to iframe api player
+
+== Arbeit & Erkenntnisse
+
+Es wurde ein skip song Button zur control-bar hinzugefügt.
+
+Die Musik wird nun über einen api player und nicht mehr ein normales iframe abgespielt.
