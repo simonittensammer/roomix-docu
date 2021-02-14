@@ -1,0 +1,31 @@
+= Protokoll 2021-02-14
+Simon Zweimüller
+1.0, 2020-02-14
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Change music volume
+* Save music volume between sessions
+* Mute music
+* Select new friends out of a list of users
+
+== Arbeit & Erkenntnisse
+
+Man kann nun die Lautstärke ändern.
+
+Die eingestellte Lautstärke wird gespeichert.
+
+Man kann die Musik muten.
+
+Man muss nicht mehr den gesamten Usernamen eingeben um einen Freund hinzuzufügen sondern man kann aus einer Liste von Usern auswählen.
