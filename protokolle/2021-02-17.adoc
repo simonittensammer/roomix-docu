@@ -1,0 +1,30 @@
+= Protokoll 2021-02-17
+Simon Zweimüller
+1.0, 2020-02-17
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Fix bug with volume icon not showing
+
+* improve room-invite list
+
+* prepare filter for browse rooms
+
+== Arbeit & Erkenntnisse
+
+Das Lautstärke icon wird nun richtig angezeigt.
+
+Die Liste aus Freunden zum einladen in den Room wurde verbessert.
+
+Es wurde ein Filter vorbeireitet um die Rooms im Browse Rooms nach Namen zu durchsuchen.
