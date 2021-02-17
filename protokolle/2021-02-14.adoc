@@ -9,6 +9,8 @@ Simon Zweimüller
 |===
 |Teilnehmer
 
+|Simon Ittensammer
+
 |Simon Zweimüller
 
 |===
@@ -19,6 +21,7 @@ Simon Zweimüller
 * Save music volume between sessions
 * Mute music
 * Select new friends out of a list of users
+* Progressbar
 
 == Arbeit & Erkenntnisse
 
@@ -29,3 +32,5 @@ Die eingestellte Lautstärke wird gespeichert.
 Man kann die Musik muten.
 
 Man muss nicht mehr den gesamten Usernamen eingeben um einen Freund hinzuzufügen sondern man kann aus einer Liste von Usern auswählen.
+
+Es gibt fü den aktuellen Song nun eine Fortschrittsanzeige.
