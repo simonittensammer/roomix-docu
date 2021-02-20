@@ -1,0 +1,46 @@
+= Protokoll 2021-02-20
+Simon Zweimüller
+1.0, 2020-02-20
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Filter public rooms
+
+* edit Userdata
+
+* edit Roomdata
+
+* delete room when the last member left
+
+* kick members from room
+
+* add partial delete room functionality
+
+* Add roles to rooms
+
+== Arbeit & Erkenntnisse
+
+Public Rooms können nach Namen gefiltert werden.
+
+Man kann seine eigenen Userdaten ändern.
+
+Man kann die Roomdaten ändern.
+
+Wenn der letzte Member den Room verlässt wird der Room gelöscht.
+
+Man kann Member aus Rooms kicken.
+
+Man kann Rooms im edit Feld löschen.
+
+Die Berechtigung innerhalb eines Rooms werden mit Rollen sichergestellt.
