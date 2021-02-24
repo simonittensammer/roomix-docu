@@ -1,0 +1,38 @@
+= Protokoll 2021-02-24
+Simon Ittensammer
+1.0, 2021-02-24
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Lorenz Gruber
+
+|Simon Ittensammer
+
+|Simon Zweimüller
+
+|Prof. Aistleitner
+
+|===
+
+== Themen
+
+* Security mit Json-Webtokens
+
+* Welcome Page vor dem Anmelden
+
+* Tooltips für Funktionen
+
+* Optional: Tags für Rooms
+
+== Vereinbarungen
+
+* Die Security soll mit Json-Webtokens erledigt werden.
+* Vor dem Anmelden gibt es eine Website auf der Informationen zu Roomix dargestellt werden
+* Es soll Tooltips für die einzelnen Funktionen geben.
+* Als Zusatz können Tags für die einzelnen Räume erstellt werden nach denen man beim Browse-Room filtern kann.
+* Nächste Besprechung am 08.03.2021 um 17:00 Uhr
