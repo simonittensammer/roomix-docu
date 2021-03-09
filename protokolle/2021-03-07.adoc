@@ -1,0 +1,26 @@
+= Protokoll 2021-03-07
+Simon Zweimüller
+1.0, 2020-02-20
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Zweimüller
+
+|===
+
+== Themen
+
+* Remove friends
+
+* Fully implement changing member roles
+
+== Arbeit & Erkenntnisse
+
+Man kann Freunde wieder entfernen
+
+Man kann die Rollen der anderen Mitglieder nun ändern
