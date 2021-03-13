@@ -1,0 +1,28 @@
+= Protokoll 2021-03-13
+Simon Ittensammer
+1.0, 2020-03-13
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Simon Ittensammer
+
+|===
+
+== Themen
+
+* Responsive Design
+
+== Arbeit & Erkenntnisse
+
+Die NavBar wurde mithilfe von @media queries responsive gemacht.
+
+Listen sind jetzt mit einem CSS-Grid aufgebaut.
+
+Die Control-Bar wurde ebenfalls zu einem CSS-Grid Layout umgeschrieben.
+
+Im Chat wurden Anzeigefehler behoben.
