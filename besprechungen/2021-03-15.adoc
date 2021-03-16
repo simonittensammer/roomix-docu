@@ -1,0 +1,31 @@
+= Protokoll 2021-03-15
+Simon Ittensammer
+1.0, 2021-03-15
+:icons: font
+
+== Organisatorisches
+
+.Teilnehmer
+|===
+|Teilnehmer
+
+|Lorenz Gruber
+
+|Simon Ittensammer
+
+|Simon Zweimüller
+
+|Prof. Aistleitner
+
+|===
+
+== Themen
+
+* Feedback zur Schriftliche Arbeit
+* Deployment auf der Oracle Cloud
+* Buggfixes bei der App
+* JWT Refresh Tokens
+
+== Vereinbarungen
+
+* Bis zu den Osterferien (optional): Jeder soll einige Kapitel für die schriftliche Arbeit schreiben
