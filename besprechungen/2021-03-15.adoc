@@ -22,7 +22,6 @@ Simon Ittensammer
 == Themen
 
 * Feedback zur Schriftliche Arbeit
-* Deployment auf der Oracle Cloud
 * Buggfixes bei der App
 * JWT Refresh Tokens
 
